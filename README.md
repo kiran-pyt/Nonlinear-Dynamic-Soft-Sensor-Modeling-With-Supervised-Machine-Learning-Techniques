@@ -1,1 +1,8 @@
 # Nonlinear-Dynamic-Soft-Sensor-Modeling-With-Supervised-Machine-Learning-Techniques
+
+
+The debutanizer column plays a vital role in both desulfurization and naphtha separation processes within the petroleum production industry. In Figure  we present a fundamental flowchart illustrating the operation of the debutanizer column. This crucial component primarily serves the purpose of separating C5 hydrocarbons from C3 and C4 hydrocarbons. It accomplishes this by removing C3 and the majority of C4 hydrocarbons from the top of the column, while at the bottom, it separates C5 hydrocarbons from a smaller amount of residual C4 hydrocarbons.
+
+One challenging aspect of the debutanizer column operation is monitoring and controlling the concentration of butane in the bottom product. This is crucial because the butane concentration in the bottom product significantly influences the overall performance of the debutanizer column. However, directly measuring this concentration is a complex task. To address this challenge effectively, it becomes essential to employ a real-time prediction system for butane concentration. This is where the concept of virtual sensors comes into play, allowing us to predict the butane concentration accurately.
+
+In the development of these virtual sensors for butane concentration prediction, we've carefully selected seven routinely measured process variables that exhibit a strong correlation with the quality variable (butane concentration). These chosen variables serve as inputs for the virtual sensors, enabling us to make accurate predictions and, in turn, enhance the control and optimization of the debutanizer column.
